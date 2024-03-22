@@ -217,9 +217,6 @@ if __name__ == '__main__':
             speaker.speak("Set the time")
             a = input("Please tell the time: ")
             alarm(a)
-
-
-        if "pause" in query:
             
 
         if "you can go now" in query:
